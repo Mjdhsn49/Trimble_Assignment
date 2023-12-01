@@ -57,10 +57,15 @@ To run the code local perform following steps
 3. To run streamlit use this command --> streamlit run streamlit_test.py
 
 
+Note: In order to use streamlit we need models while running jupyter notebook cell we need to save models to  "models" folder then we may use streamlit 
+
+
 
 To run the code in docker first install docker
 
 Run -- 'docker-compose up --build'
+
+In terminal two links one for jupyter notebook and another for streamlit are provided copy these links to browser to access the jupyter notebook and streamlit application.
 
 
 
