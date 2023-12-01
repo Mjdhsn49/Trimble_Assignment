@@ -1,0 +1,17 @@
+version: '3'
+services:
+  classification:
+    build:
+      context: .
+    # volumes:
+    #   - ./app:/app
+    ports:
+      - "8888:8888"
+      - "8501:8501"
+    volumes:
+      - ./Technical_Exercise:/app/Technical_Exercise  # Adjust the path accordingly
+    command: bash -c "jupyter notebook --ip='*' --port=8888 --no-browser --allow-root & streamlit run /app/Technical_Exercise/streamlit_test.py & wait"
+
+
+
+

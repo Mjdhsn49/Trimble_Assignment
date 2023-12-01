@@ -1,0 +1,11 @@
+seaborn
+transformers
+numpy
+pillow
+scikit-learn
+matplotlib
+jupyter
+streamlit
+tensorboard
+gdown
+
