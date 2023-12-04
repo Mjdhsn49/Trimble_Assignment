@@ -36,10 +36,10 @@ As a task with annotating a limited number of images from a vast unlabelled data
 
 ## 9. Documentation and Analysis
 
-- SInce this process is selective documenting the reason behind image selection and perform a thorough analysis should be done.
+- Since this process is selective, documenting the reason behind image selection and perform a thorough analysis should be done.
 
 ## 10. Validation
 
-- Finally we reserve a portion for validation and evaluate the impact on model performance to verify our selected images are goof or not.
+- Finally we reserve a portion for validation and evaluate the impact on model performance to verify our selected images are good or not.
 
 Overall the selection process involves a combination of automated techniques, human expertise, and continuous feedback loops.
